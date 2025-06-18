@@ -3,7 +3,7 @@ End-to-end ML pipeline for customer behavior classification with feature enginee
 
 
 
-**ThinkTrack** is a  machine learning-based application that predicts customer behavior based on demographic and financial attributes. This project involves data preprocessing, feature selection, dimensionality reduction using PCA, model evaluation across multiple algorithms, and deployment via a Tkinter-based GUI for real-time predictions.
+**ThinkTrack** is a  machine learning model that predicts customer behavior based on demographic and financial attributes. This project involves data preprocessing, feature selection, dimensionality reduction using PCA, model evaluation across multiple algorithms, and deployment via a Tkinter-based GUI for real-time predictions.
 
 ---
 
